@@ -39,12 +39,7 @@ https://drive.google.com/file/d/13V5F_ZWXXRWGN_myFUurJA1WrHOwO3SX/view?usp=drive
 ## VIDEO LINK
 https://drive.google.com/file/d/1zB4tF3vIw5V-q5v3JuC9FtbEi4dXt51Y/view?usp=drive_link
 
-### Implementation
-For Software:
-#### Installation
-```bash
----
----
+
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
