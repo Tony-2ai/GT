@@ -37,7 +37,7 @@ For Hardware:
 ## WORK FLOW
 https://drive.google.com/file/d/13V5F_ZWXXRWGN_myFUurJA1WrHOwO3SX/view?usp=drive_link
 ## VIDEO LINK
-https://drive.google.com/file/d/1zB4tF3vIw5V-q5v3JuC9FtbEi4dXt51Y/view?usp=drive_link
+https://drive.google.com/file/d/1zB4tF3vIw5V-q5v3JuC9FtbEi4dXt51Y/view?usp=drivesdk
 
 
 Made with ❤️ at TinkerHub Useless Projects 
